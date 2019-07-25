@@ -4,9 +4,9 @@
 ### Author: Alvian Joseph
 
 ### Links and Resources
-* [PR]()
-* [![Build Status]()
-* [front end]()
+* [PR](https://github.com/alvian-401-advanced-javascript/lab-11-authentication/pull/2)
+* [![Build Status](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-11-authentication.svg?branch=master)](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-11-authentication)
+* [front end](https://alvian-lab11.herokuapp.com/)
 
 #### Documentation
 * [jsdoc]()
